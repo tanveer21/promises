@@ -1,4 +1,6 @@
-// basic implementation of promises
+//Basic implementation of promise named Treasure
+//usage file includes loadurl.js
+// basic array operations done in index.js
 to do normal operations with arrays
 it includes:
 - use of then 
