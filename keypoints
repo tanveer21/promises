@@ -1,0 +1,3 @@
+1) Finally method, which is called after the promise settles and the then or catch callbacks are invoked, regardless of whether it rejects or resolves.
+
+2)
