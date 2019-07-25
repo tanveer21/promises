@@ -12,3 +12,14 @@ it includes:
 - making it to uupercase
 - these operations can be replaced by more complex database operations chanined via promises
 
+
+To run Usage File :
+command: node loadurl
+
+
+To run Basic test using Jest:
+command: npm run test
+
+
+
+
