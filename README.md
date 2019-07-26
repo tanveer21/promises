@@ -8,8 +8,8 @@ it includes:
 
 
 //usage includes
-- first promise fetching the last arry element
-- making it to uupercase
+- first promise fetching the last array element
+- making it to upercase
 - these operations can be replaced by more complex database operations chanined via promises
 
 
